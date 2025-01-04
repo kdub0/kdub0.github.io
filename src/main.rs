@@ -452,7 +452,7 @@ fn main() {
     info!("Read {} publications", publications.len());
 
     info!("Opening index.html");
-    let file = std::fs::File::create("github-pages/index.html").unwrap();
+    let file = std::fs::File::create("docs/index.html").unwrap();
     let mut writer = std::io::BufWriter::new(file);
 
     info!("Writing head");
