@@ -1,0 +1,11 @@
+[package]
+name = "kdub0-github-io"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.95"
+log = { version = "0.4.22", features = ["serde", "std"] }
+serde = { version = "1.0.217", features = ["alloc", "derive"] }
+serde_yaml = "0.9.34"
+simplelog = "0.12.2"

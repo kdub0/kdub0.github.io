@@ -1,0 +1,86 @@
+body {
+  background-color: #f9fbff;
+  font-family: 'Lato', sans-serif;
+}
+
+.content {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar {
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar li {
+  display: inline;
+}
+
+.navbar a {
+  color: #003db7;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #0961ef;
+}
+
+.year {
+  color: #0961ef;
+  font-weight: normal;
+}
+
+.entries {
+  list-style-type: none;
+}
+
+.entry {
+  margin: 1em 0;
+}
+
+.author_link {
+  color: #003db7;
+  text-decoration: none;
+}
+
+.author_link:hover {
+  color: #0961ef;
+}
+
+.author {
+  font-size: 90%;
+}
+
+.title {
+  font-weight: 700;
+}
+
+.location {
+  font-size: 90%;
+}
+
+.note {
+  font-size: 90%;
+  font-style: italic;
+}
+
+.links {
+  padding: 0;
+  display: inline;
+}
+
+.link_item {
+  display: inline;
+}
+
+.link {
+  color: #003db7;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #0961ef;
+}

@@ -1,0 +1,203 @@
+- !JournalArticle
+  authors: [M. Schmid, M. Moravčík, N. Burch, R. Kadlec, J. Davidson, K. Waugh, N. Bard, F. Timbers, M. Lanctot, G. Z. Holland, E. Davoodi, A. Christianson, M. Bowling]
+  title: "Student of Games: A Unified Learning Algorithm for both Perfect and Imperfect Information Games"
+  journal: Science Advances
+  volume: 9
+  number: 46
+  month: November
+  year: 2023
+  links:
+    - !Url
+      name: Science Advances
+      url: https://www.science.org/doi/10.1126/sciadv.adg3256
+    - !Arxiv 2112.03178
+- !JournalArticle
+  authors: [T. Zahavy, V. Veeriah, S. Hou, K. Waugh, M. Lai, E. Leurent, N. Tomasev, L. Schut, D. Hassabis, S. Singh]
+  title: "Diversifying AI: Towards Creative Chess with AlphaZero"
+  journal: arXiv Preprint 2308.09175
+  year: 2023
+  links:
+    - !Arxiv 2308.09175
+- !InProceedings
+  authors: [T. Davis, K. Waugh, M. Bowling]
+  title: Solving Large Extensive-Form Games with Strategy Constraints
+  booktitle: AAAI Conference on Artificial Intelligence (AAAI)
+  year: 2019
+  links:
+    - !Arxiv 1809.07893
+- !JournalArticle
+  authors: [C. Kroer, K. Waugh, F. Kılınç-Karzan, T. Sandholm]
+  title: Faster algorithms for extensive-form game solving via improved smoothing functions 
+  journal: Mathematical Programming Series A
+  volume: 179
+  month: January
+  year: 2020
+  pages: 385-417
+  note: Published October 5, 2018
+  links:
+    - !Url
+      name: Springer
+      url: https://link.springer.com/article/10.1007/s10107-018-1336-7
+    - !Pdf pdf/faster18.pdf
+- !InProceedings
+  authors: [C. Kroer, K. Waugh, F. Kılınç-Karzan, T. Sandholm]
+  title: Theoretical and Practical Advances on Smoothing for Extensive-Form Games
+  year: 2017
+  booktitle: ACM Conference on Economics and Computation (EC)
+  links:
+    - !Arxiv 1702.04849
+- !JournalArticle
+  authors: [M. Moravcik, M. Schmid, N. Burch, V. Lisy, D. Morrill, N. Bard, T. Davis, K. Waugh, M. Johanson, M. Bowling]
+  title: "DeepStack: Expert-Level Artificial Intelligence in Heads-Up No-Limit Poker"
+  journal: Science
+  volume: 356
+  number: 6337
+  month: May
+  year: 2017
+  pages: 508-513
+  links:
+    - !Url
+      name: Science
+      url: https://www.science.org/doi/10.1126/science.aam6960
+    - !Pdf pdf/deepstack17.pdf
+    - !Url
+      name: Supplemental PDF
+      url: pdf/deepstack17supplement.pdf
+- !InProceedings
+  authors: [C. Kroer, K. Waugh, F. Kılınç-Karzan, T. Sandholm]
+  title: Faster First-Order Methods for Extensive-Form Game Solving
+  booktitle: ACM conference on Economics and Computation (EC)
+  year: 2015
+  links:
+    - !Pdf pdf/faster15.pdf
+- !InProceedings
+  authors: [K. Waugh, D. Morrill, J. A. Bagnell, M. Bowling]
+  title: Solving Games with Functional Regret Estimation
+  booktitle: AAAI Conference on Artificial Intelligence
+  year: 2015
+  links:
+    - !Pdf pdf/regress15.pdf
+    - !Arxiv 1411.7974
+- !InProceedings
+  authors: [K. Waugh, J. A. Bagnell]
+  title: A Unified View of Large-scale Zero-sum Equilibrium Computation
+  booktitle: AAAI Workshop on Computer Poker and Imperfect Information
+  year: 2015
+  links:
+    - !Pdf pdf/unify15.pdf
+    - !Arxiv 1411.5007
+- !InProceedings
+  authors: [K. Waugh]
+  title: A Fast and Optimal Hand Isomorphism Algorithm
+  booktitle: AAAI Workshop on Computer Poker and Imperfect Information
+  year: 2013
+  links:
+    - !Pdf pdf/isomorphism13.pdf
+- !TechnicalReport
+  authors: [K. Waugh, B. D. Ziebart, J. A. Bagnell]
+  title: "Computational Rationalization: The Inverse Equilibrium Problem"
+  institution: arXiv
+  number: 1308.3506
+  year: 2013
+  links:
+    - !Arxiv 1308.3506
+- !InProceedings
+  authors: [M. Johanson, K. Waugh, M. Bowling, M. Zinkevich]
+  title: Accelerating Best Response Calculation in Large Extensive Games
+  booktitle: International Joint Conference on Artificial Intelligence (IJCAI)
+  year: 2011
+  links:
+    - !Pdf pdf/johanson11.pdf
+- !InProceedings
+  authors: [K. Waugh, B. D. Ziebart, J. A. Bagnell]
+  title: "Computational Rationalization: The Inverse Equilibrium Problem"
+  booktitle: International Conference on Machine Learning (ICML)
+  year: 2011
+  note: Best paper
+  links:
+    - !Pdf pdf/icml11.pdf
+    - !Arxiv 1103.5254
+- !InProceedings
+  authors: [M. Lanctot, K. Waugh, M. Zinkevich, M. Bowling]
+  title: Monte Carlo Sampling for Regret Minimization in Extensive Games
+  booktitle: Neural Information Processing Systems (NIPS)
+  pages: 1078-1086
+  year: 2009
+  links:
+    - !Pdf pdf/nips09b.pdf
+    - !Url
+      name: TechReport
+      url: http://www.cs.ualberta.ca/research/techreports/2009/TR09-15.php
+- !InProceedings
+  authors: [K. Waugh, N. Bard, M. Bowling]
+  title: Strategy Grafting in Extensive Games
+  booktitle: Neural Information Processing Systems (NIPS)
+  pages: 2026-2034
+  year: 2009
+  links:
+    - !Pdf pdf/nips09.pdf
+- !MastersThesis
+  authors: [K. Waugh]
+  title: Abstraction in Large Extensive Games
+  school: University of Alberta
+  year: 2009
+  links:
+    - !Pdf pdf/thesis09.pdf
+- !InProceedings
+  authors: [K. Waugh]
+  title: Faster State Manipulation in General Games using Generated Code
+  booktitle: General Intelligence in Game-Playing Agents (GIGA)
+  year: 2009
+  links:
+    - !Pdf pdf/giga09.pdf
+- !InProceedings
+  authors: [K. Waugh, M. Zinkevich, M. Johanson, M. Kan, D. Schnizlein, M. Bowling]
+  title: A Practical Use of Imperfect Recall
+  booktitle: Symposium on Abstraction, Reformulation and Approximation (SARA)
+  year: 2009
+  links:
+    - !Pdf pdf/sara09.pdf
+- !InProceedings
+  authors: [K. Waugh, D. Schnizlein, M. Bowling, D. Szafron]
+  title: Abstraction Pathologies in Extensive Games
+  booktitle: International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+  pages: 781-788
+  year: 2009
+  links:
+    - !Pdf pdf/aamas09.pdf
+- !JournalArticle
+  authors: [M. Carbonaro, M. Cutumisu, H. Duff, S. Gillis, C. Onuczko, J. Siegel, J. Schaeffer, A. Schumacher, D. Szafron, K. Waugh]
+  title: "Interactive Story Authoring: A Viable Form of Creative Expression for the Classroom"
+  journal: Computers and Education
+  volume: 51
+  number: 2
+  pages: 687-707
+  year: 2007
+  links:
+    - !Pdf pdf/ce07.pdf
+- !JournalArticle
+  authors: [M. Cutumisu, C. Onuczko, M. McNaughton, T. Roy, J. Schaeffer, A. Schumacher, J. Siegel, D. Szafron, K. Waugh, M. Carbonaro, H. Duff, S. Gillis]
+  title: "ScriptEase: A Generative/adaptive Programming Paradigm for Game Scripting"
+  journal: Science of Computer Programming
+  volume: 67
+  number: 1
+  pages: 32-55
+  year: 2007
+  links:
+    - !Pdf pdf/scp07.pdf
+- !InProceedings
+  authors: [M. Carbonaro, M. Cutumisu, H. Duff, S. Gillis, C. Onuczko, J. Schaeffer, A. Schumacher, J. Siegel, D. Szafron, K. Waugh]
+  title: Adapting a Commercial Role-Playing Game for Educational Computer Game Production
+  booktitle: GameOn
+  pages: 54-61
+  year: 2006
+  links:
+    - !Pdf pdf/gameon06.pdf
+- !InProceedings
+  authors: [C. Onuczko, M. Cutumisu, D. Szafron, J. Schaeffer, M. McNaughton, T. Roy, K. Waugh, M. Carbonaro, J. Siegel]
+  title: A Pattern Catalog for Computer Role Playing Games
+  booktitle: GameOn
+  pages: 33-38
+  year: 2005
+  links:
+    - !Pdf pdf/gameon05.pdf
